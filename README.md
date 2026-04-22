@@ -1,5 +1,11 @@
 # Workshop 3 — Asistente de Documentos con Gemini + Gradio
 
+### Integrantes:
+
+- Athina Cappelletti
+- Daniela Salazar Amaya
+- Laura Indabur 
+
 Proyecto práctico para construir un chatbot que responde preguntas sobre un PDF (paper *Attention is All You Need*) usando Gemini, `pypdf` y Gradio.
 
 ## Contenido del proyecto
